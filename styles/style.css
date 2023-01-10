@@ -76,6 +76,9 @@ button:hover {
 .menu:active {
   color: #ffdb5b; /*добавляем эффект при наведении*/
 }
+.menu:visited {
+  color: rgb(2, 74, 2);
+}
 .image {
   background-image: url(../assets/image/IMAGE.jpg);
   height: 640px;
